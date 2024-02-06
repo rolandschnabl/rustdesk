@@ -1,5 +1,4 @@
 name: Build the flutter version of the RustDesk
-runs-on: self-hosted
 
 on:
   workflow_call:
