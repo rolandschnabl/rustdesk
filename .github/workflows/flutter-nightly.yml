@@ -1,5 +1,4 @@
 name: Flutter Nightly Build
-runs-on: self-hosted
 
 on:
   schedule:
